@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: unitree_rl_gym
+Version: 1.0.0
+Summary: Template RL environments for Unitree Robots
+Author: Unitree Robotics
+Author-email: support@unitree.com
+License: BSD-3-Clause
+License-File: LICENSE
+Requires-Dist: isaacgym
+Requires-Dist: rsl-rl
+Requires-Dist: matplotlib
+Requires-Dist: numpy==1.20
+Requires-Dist: tensorboard
+Requires-Dist: mujoco==3.2.3
+Requires-Dist: pyyaml
